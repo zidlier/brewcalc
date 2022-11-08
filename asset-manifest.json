@@ -1,13 +1,22 @@
 {
-  "main.css": "/brewcalc/static/css/main.867c3115.chunk.css",
-  "main.js": "/brewcalc/static/js/main.d154c784.chunk.js",
-  "main.js.map": "/brewcalc/static/js/main.d154c784.chunk.js.map",
-  "runtime~main.js": "/brewcalc/static/js/runtime~main.b94fab0c.js",
-  "runtime~main.js.map": "/brewcalc/static/js/runtime~main.b94fab0c.js.map",
-  "static/js/2.e192208f.chunk.js": "/brewcalc/static/js/2.e192208f.chunk.js",
-  "static/js/2.e192208f.chunk.js.map": "/brewcalc/static/js/2.e192208f.chunk.js.map",
-  "index.html": "/brewcalc/index.html",
-  "precache-manifest.9fdaa4048e685d8a2d14096b5dc88dcf.js": "/brewcalc/precache-manifest.9fdaa4048e685d8a2d14096b5dc88dcf.js",
-  "service-worker.js": "/brewcalc/service-worker.js",
-  "static/css/main.867c3115.chunk.css.map": "/brewcalc/static/css/main.867c3115.chunk.css.map"
+  "files": {
+    "main.css": "/brewcalc/static/css/main.801c87dc.chunk.css",
+    "main.js": "/brewcalc/static/js/main.f2ccf912.chunk.js",
+    "main.js.map": "/brewcalc/static/js/main.f2ccf912.chunk.js.map",
+    "runtime-main.js": "/brewcalc/static/js/runtime-main.27e8bc2d.js",
+    "runtime-main.js.map": "/brewcalc/static/js/runtime-main.27e8bc2d.js.map",
+    "static/js/2.eaff7836.chunk.js": "/brewcalc/static/js/2.eaff7836.chunk.js",
+    "static/js/2.eaff7836.chunk.js.map": "/brewcalc/static/js/2.eaff7836.chunk.js.map",
+    "index.html": "/brewcalc/index.html",
+    "precache-manifest.9c71371c397d1afca50638985065b9b2.js": "/brewcalc/precache-manifest.9c71371c397d1afca50638985065b9b2.js",
+    "service-worker.js": "/brewcalc/service-worker.js",
+    "static/css/main.801c87dc.chunk.css.map": "/brewcalc/static/css/main.801c87dc.chunk.css.map",
+    "static/js/2.eaff7836.chunk.js.LICENSE.txt": "/brewcalc/static/js/2.eaff7836.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27e8bc2d.js",
+    "static/js/2.eaff7836.chunk.js",
+    "static/css/main.801c87dc.chunk.css",
+    "static/js/main.f2ccf912.chunk.js"
+  ]
 }
